@@ -34,8 +34,8 @@ Or you can upload the .zip file at places like JLCPCB and order the PCB straight
 You only need three components. The USB-C plug and 2x 5.1kOhm 0805 SMD Resistor. <br />
 The folder "BOM" contains the datasheet for the USB-C plug, if you have to source a different one...
 
-- https://lcsc.com/product-detail/USB-Connectors_SOFNG-MC-311D_C136423.html
-- https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8J0512T5E_C26023.html
+- 1x https://lcsc.com/product-detail/USB-Connectors_SOFNG-MC-311D_C136423.html
+- 2x https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8J0512T5E_C26023.html
 
 ## ...
 i still have a few PCB's left... ;)
