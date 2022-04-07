@@ -19,9 +19,11 @@ I was always looking for a microUSB cable. Therefore, I have developed a small c
 <p align="center">
   <img src="https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-2.jpg" width="350" title="PCB install 1">
   <img src="https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-3.jpg" width="350" title="PCB install 2">
+  <br /> Installation of the new PCB
 </p>
 <p align="center">
   <img src="https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-4.jpg" width="550" title="back of radio">
+  <br /> the "new" back of the radio :D
 </p>
 
 ## PCB
