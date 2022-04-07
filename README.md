@@ -9,6 +9,12 @@ I got tired of looking for a microUSB cable for my Taranis X9D. Therefore, I dev
 - Desolder and replace the USB-PCB with the new one.
 - Take a small file and widen the hole for the USB connector.
 
+![alt text](https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-1.jpg)
+![alt text](https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-2.jpg)
+![alt text](https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-3.jpg)
+![alt text](https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-4.jpg)
+![alt text](https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-5.jpg)
+
 ## PCB
 In the folder "PCB" you can see the EAGLE project if you want to have a look at it. Or you can upload the .zip file at places like JLCPCB and order the PCB straight away.
 
