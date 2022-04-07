@@ -1,6 +1,9 @@
 # Taranis-X9D_USB-C-Mod
 I got tired of looking for a microUSB cable for my Taranis X9D. Therefore, I developed a small PCB to fit the radio control with USB-C.
 
+![alt text](https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB.png)
+
+
 ## Instalation
 - Open the radio and take out the middle PCB with the USB connector.
 - Desolder and replace the USB-PCB with the new one.
