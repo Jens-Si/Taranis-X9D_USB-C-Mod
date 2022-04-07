@@ -9,19 +9,20 @@ I got tired of looking for a microUSB cable for my Taranis X9D. Therefore, I dev
 - Desolder and replace the USB-PCB with the new one.
 - Take a small file and widen the hole for the USB connector.
 
-![alt text](https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-1.jpg)
-![alt text](https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-2.jpg)
-![alt text](https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-3.jpg)
-![alt text](https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-4.jpeg)
-![alt text](https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-5.jpg)
-
-
 <p align="center">
-  <img src="https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-1.jpg" width="350" title="hover text">
-  <img src="https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-2.jpg" width="350" title="hover text">
-  <img src="https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-3.jpg" width="350" title="hover text">
-  <img src="https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-4.jpeg" width="350" title="hover text">
-  <img src="https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-5.jpg" width="350" title="hover text">
+  <img src="https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-1.jpg" width="550" title="hover text">
+</p>
+<p align="center">
+  <img src="https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-2.jpg" width="550" title="hover text">
+</p>
+<p align="center">
+  <img src="https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-3.jpg" width="550" title="hover text">
+</p>
+<p align="center">
+  <img src="https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-4.jpeg" width="550" title="hover text">
+</p>
+<p align="center">
+  <img src="https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-5.jpg" width="550" title="hover text">
 </p>
 
 ## PCB
