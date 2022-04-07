@@ -35,3 +35,6 @@ the folder "BOM" contains the datasheet for the USB-C plug.
 
 - https://lcsc.com/product-detail/USB-Connectors_SOFNG-MC-311D_C136423.html
 - https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8J0512T5E_C26023.html
+
+## ...
+i still have a few PCB's left... ;)
