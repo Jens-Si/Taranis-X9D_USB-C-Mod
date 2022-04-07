@@ -3,7 +3,7 @@
 I was always looking for a microUSB cable. Therefore, I have developed a small circuit board to equip my Taranis X9D with a USB-C socket.
 
 <p align="center">
-  <img src="https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB.png" width="550" title="Screenshot PCB">
+  <img src="https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-0.png" width="550" title="Screenshot PCB">
 </p>
 
 ## Instalation
