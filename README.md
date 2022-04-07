@@ -27,12 +27,12 @@ I was always looking for a microUSB cable. Therefore, I have developed a small c
 </p>
 
 ## PCB
-In the folder "PCB" you can see the EAGLE project, if you want to have a look at it.
+In the folder "PCB" you can see the EAGLE project, if you want to have a look at it. <br />
 Or you can upload the .zip file at places like JLCPCB and order the PCB straight away.
 
 ## BOM
-You only need three components. The USB-C plug and 2x 5.1kOhm 0805 SMD Resistor.
-the folder "BOM" contains the datasheet for the USB-C plug.
+You only need three components. The USB-C plug and 2x 5.1kOhm 0805 SMD Resistor. <br />
+The folder "BOM" contains the datasheet for the USB-C plug.
 
 - https://lcsc.com/product-detail/USB-Connectors_SOFNG-MC-311D_C136423.html
 - https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8J0512T5E_C26023.html
