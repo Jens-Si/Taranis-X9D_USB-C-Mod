@@ -13,6 +13,7 @@ I was always looking for a microUSB cable. Therefore, I have developed a small c
 
 <p align="center">
   <img src="https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-1.jpg" width="550" title="old and new PCB">
+  Old and new PCB
 </p>
 
 <p align="center">
