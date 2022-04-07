@@ -15,6 +15,15 @@ I got tired of looking for a microUSB cable for my Taranis X9D. Therefore, I dev
 ![alt text](https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-4.jpeg)
 ![alt text](https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-5.jpg)
 
+
+<p align="center">
+  <img src="https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-1.jpg" width="350" title="hover text">
+  <img src="https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-2.jpg" width="350" title="hover text">
+  <img src="https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-3.jpg" width="350" title="hover text">
+  <img src="https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-4.jpeg" width="350" title="hover text">
+  <img src="https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-5.jpg" width="350" title="hover text">
+</p>
+
 ## PCB
 In the folder "PCB" you can see the EAGLE project if you want to have a look at it. Or you can upload the .zip file at places like JLCPCB and order the PCB straight away.
 
