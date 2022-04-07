@@ -12,7 +12,7 @@ I got tired of looking for a microUSB cable for my Taranis X9D. Therefore, I dev
 ![alt text](https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-1.jpg)
 ![alt text](https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-2.jpg)
 ![alt text](https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-3.jpg)
-![alt text](https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-4.jpg)
+![alt text](https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-4.jpeg)
 ![alt text](https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-5.jpg)
 
 ## PCB
