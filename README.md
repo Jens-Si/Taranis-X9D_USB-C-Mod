@@ -1,8 +1,8 @@
 # Taranis-X9D_USB-C-Mod
-I got tired of looking for a microUSB cable for my Taranis X9D. Therefore, I developed a small PCB to fit the radio control with USB-C.
 
-![alt text](https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB.png)
-
+<p align="center">
+  <img src="https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB.png" width="550" title="Screenshot PCB">
+</p>
 
 ## Instalation
 - Open the radio and take out the middle PCB with the USB connector.
@@ -10,18 +10,15 @@ I got tired of looking for a microUSB cable for my Taranis X9D. Therefore, I dev
 - Take a small file and widen the hole for the USB connector.
 
 <p align="center">
-  <img src="https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-1.jpg" width="550" title="hover text">
+  <img src="https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-1.jpg" width="550" title="old and new PCB">
 </p>
 
 <p align="center">
-  <img src="https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-2.jpg" width="350" title="hover text">
-  <img src="https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-3.jpg" width="350" title="hover text">
+  <img src="https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-2.jpg" width="350" title="PCB install 1">
+  <img src="https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-3.jpg" width="350" title="PCB install 2">
 </p>
 <p align="center">
-  <img src="https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-4.jpeg" width="550" title="hover text">
-</p>
-<p align="center">
-  <img src="https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-5.jpg" width="550" title="hover text">
+  <img src="https://github.com/Jens-Si/Taranis-X9D_USB-C-Mod/blob/main/pictures/PCB-4.jpg" width="550" title="back of radio">
 </p>
 
 ## PCB
